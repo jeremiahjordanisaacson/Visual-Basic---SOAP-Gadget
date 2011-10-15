@@ -1,0 +1,42 @@
+﻿<html >
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=Unicode" />
+        <title>Savant</title>
+             <style type="text/css">
+
+
+	 body
+        {
+            margin: 0;
+            width: 130px;
+            height: 279px;
+            font-family: verdana;
+            font-weight: bold;
+            font-size: 10px;
+			font-color: white;
+        }
+        #gadgetContent
+        {
+            margin-top: 80px;
+            width: 130px;
+            vertical-align: middle;
+            text-align: center;
+            overflow: hidden;
+        }
+        </style>
+        <script type="text/jscript" language="jscript">
+            // Initialize the gadget.
+            function init()
+            {
+                var oBackground = document.getElementById("imgBackground");
+                oBackground.src = "url(images/OnTrac_Bk_Large_Background.png)";
+            }
+        </script>
+    </head>
+	
+    <body onload="init()">
+        <g:background id="imgBackground">
+            <span id="gadgetContent">12/7/2009 8-10 pm</span>
+        </g:background>
+    </body>
+</html>

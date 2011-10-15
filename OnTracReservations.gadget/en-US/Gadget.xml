@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>OnTrac Reservations</name>
+  <namespace>windows.sdk</namespace>
+  <version>1.0.0.0</version>
+  <author name="Savant">
+    <info url="http://www.savant.mobi" text="Savant Website" />
+    <logo src="SavantLogo.png" />
+  </author>
+  <copyright>&#169; 2009 Savant</copyright>
+  <description>OnTrac Reservations. Ontrac Reservations gadget keeps you updated with all of your current reservations so that you'll never miss another appointment. OnTrac for the University of Wisconsin - Eau Claire helps you reserve McIntrye Library group rooms to share with the people on your campus. Credits Jeremiah J. Isaacson, Justin Turney, and Jason Van Zanten</description>
+  <icons>
+    <icon height="64" width="62" src="OnTracDarkLogo.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="OnTracReservations.html" />
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0" />
+      <defaultImage src="OnTracLogo.png" />
+    </host>
+  </hosts>
+</gadget>

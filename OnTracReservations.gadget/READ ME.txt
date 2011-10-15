@@ -1,0 +1,31 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  THIS CODE IS OPEN SOURCE
+//  Please use and distribute freely, but note me somewhere in the comments, if this helps you.
+//  Copyright (c) 2009 Jeremiah Jordan Isaacson.  All rights reserved.
+//
+////////////////////////////////////////////////////////////////////////////////
+
+NOTE: OnTrac Reservations is FOR WINDOWS VISTA OR WINDOWS 7 VERSIONS ONLY
+
+INSTRUCTIONS
+To install the OnTracReservations.gadget:
+
+1.To open the Sidebar, click the Start button, point to All Programs, then to Accessories, and then click Windows Sidebar.
+  You can also click the Start button, click Run..., and then type "sidebar" in the Open text field and press ENTER. 
+
+2.Locate and open your gadgets folder. Click the Start button, and then click Run.... In the Open text box, type or paste in: 
+%USERPROFILE%\AppData\Local\Microsoft\Windows Sidebar\Gadgets
+
+3. Copy "OnTracReservations.gadget" folder and all of it's contents to the folder you just opened:
+%USERPROFILE%\AppData\Local\Microsoft\Windows Sidebar\Gadgets
+
+4. Show the desktop, right-click on the desktop and select "Gadgets"
+
+5. You should see the "OnTrac Globe" icon, drag it to your desktop.
+
+6. Once you validate your user account, you will be able to view your upcoming McIntrye Room reservations.
+
+7. Enjoy!
+
+
